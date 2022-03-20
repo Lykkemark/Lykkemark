@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lykkemark
+- 👀 I’m interested in Operations, infrastructure, development, design, ux/ui, interaction-design, gaming, reading, self-improvement
+- 🌱 I’m currently learning php, sql, cli, html, css, js and network
+- 💞️ I’m looking to collaborate on every kind of technical project, no project too small nor too big
+- 📫 How to reach me: Lykkemark#6489 (Discord) or michael@merrifield.dk
